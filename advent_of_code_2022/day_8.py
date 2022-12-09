@@ -80,4 +80,4 @@ result_2 = max(
     [h * v for row_h, row_v in zip(hor_score, ver_score) for h, v in zip(row_h, row_v)]
 )
 
-print(f"Puzzle 1: {result_2}")
+print(f"Puzzle 2: {result_2}")

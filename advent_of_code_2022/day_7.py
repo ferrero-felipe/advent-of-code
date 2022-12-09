@@ -87,4 +87,4 @@ result_2 = min(
     )
 )
 
-print(f"Puzzle 1: {result_2}")
+print(f"Puzzle 2: {result_2}")

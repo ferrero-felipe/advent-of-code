@@ -20,4 +20,4 @@ print(f"Puzzle 1: {result_1}")
 
 result_2 = next(get_markers(data, 14))[1]
 
-print(f"Puzzle 1: {result_2}")
+print(f"Puzzle 2: {result_2}")
