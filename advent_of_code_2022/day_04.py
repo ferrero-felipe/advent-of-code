@@ -1,4 +1,4 @@
-with open("advent_of_code_2022/data/day_4_input.txt", "r") as file:
+with open("advent_of_code_2022/data/day_04_input.txt", "r") as file:
     data = file.read()
 
 data = list(

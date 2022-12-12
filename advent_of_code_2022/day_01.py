@@ -1,4 +1,4 @@
-with open("advent_of_code_2022/data/day_1_input.txt", "r") as file:
+with open("advent_of_code_2022/data/day_01_input.txt", "r") as file:
     data = file.read()
 
 # Puzzle 1

@@ -1,4 +1,4 @@
-with open("advent_of_code_2022/data/day_2_input.txt", "r") as file:
+with open("advent_of_code_2022/data/day_02_input.txt", "r") as file:
     data_raw = file.read()
 
 data = list(map(lambda match: match.split(), data_raw.split("\n")))

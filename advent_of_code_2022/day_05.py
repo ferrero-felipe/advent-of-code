@@ -1,6 +1,6 @@
 from copy import deepcopy
 
-with open("advent_of_code_2022/data/day_5_input.txt", "r") as file:
+with open("advent_of_code_2022/data/day_05_input.txt", "r") as file:
     data = file.read()
 stacks, moves = data.split("\n\n")
 

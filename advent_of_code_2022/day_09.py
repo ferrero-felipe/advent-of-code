@@ -1,4 +1,4 @@
-with open("advent_of_code_2022/data/day_9_input.txt", "r") as file:
+with open("advent_of_code_2022/data/day_09_input.txt", "r") as file:
     data = list(map(lambda x: x.split(), file.read().split("\n")))
 
 # Puzzle 1

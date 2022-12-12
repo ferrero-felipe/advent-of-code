@@ -1,7 +1,7 @@
 import string
 from functools import reduce
 
-with open("advent_of_code_2022/data/day_3_input.txt", "r") as file:
+with open("advent_of_code_2022/data/day_03_input.txt", "r") as file:
     data = file.read()
 data = data.split("\n")
 

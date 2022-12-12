@@ -1,4 +1,4 @@
-with open("advent_of_code_2022/data/day_8_input.txt", "r") as file:
+with open("advent_of_code_2022/data/day_08_input.txt", "r") as file:
     data = file.read().split("\n")
 
 forest = [[int(tree) for tree in row] for row in data]
